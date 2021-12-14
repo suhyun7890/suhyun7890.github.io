@@ -58,33 +58,33 @@ git branch -d <branch_name>
 
 - 일반 텍스트로 서식이 있는 문서를 작성하는 방법
 
-##### 문법 1. Header
+#### 문법 1. Header
 - #, ##, ### 등으로 제목(header) 작성
 
-##### 문법 2. Italic
-- 앞뒤에 *를 붙이거나, _..._으로 기울임체(_italic_) 작성
+#### 문법 2. Italic
+- 앞뒤에 *나 _를 붙여 기울임체(italic) 작성
 
-##### 문법 3. Bold
-- 앞뒤에 **를 붙이거나, __...__으로 강조체(__bold__) 작성
+#### 문법 3. Bold
+- 앞뒤에 **나 __를 붙여 강조체(bold) 작성
 
-##### 문법 4. Strikethrough
-- 앞뒤에 ~를 붙여서 취소선(~strikethrough~) 작성
+#### 문법 4. Strikethrough
+- 앞뒤에 ~를 붙여서 취소선(strikethrough) 작성
 
-##### 문법 5. Unordered List
+#### 문법 5. Unordered List
 - -나 *으로 순서 없는 리스트(unordered list) 작성
 
-##### 문법 6. Ordered Lost
+#### 문법 6. Ordered Lost
 - 1, 2, 3 등으로 순서 리스트(ordered list) 작성
 
-##### 문법 7. Code
+#### 문법 7. Code
 - 앞뒤에 `을 붙여서 코드(code) 작성
 - `print()`
 
-##### 문법 8. Code Block
+#### 문법 8. Code Block
 - 앞뒤에 ```을 붙여서 코드블록(code block) 작성
 ```python
 x = input()
 y = x + 2
 ```
 
-###### 이 외의 문법은 Markdown Guide - Basic Syntax에서 확인 가능
+##### 이 외의 문법은 Markdown Guide - Basic Syntax에서 확인 가능
