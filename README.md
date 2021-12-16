@@ -161,8 +161,7 @@ comment:
 
 - Disqus 홈페이지에서 Universal Code를 복사 후, _layouts/post.html에 수정 및 반영하였습니다.
 
-'''
-
+```
 {% if page.comments %}
 <h2>Comments</h2>
 <div id="disqus_thread"></div>
@@ -185,8 +184,7 @@ comment:
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 {% endif %}
-
-'''
+```
 
 - _posts의 게시물들 상단에 다음 코드를 추가함으로써, 댓글 기능을 허용하였습니다.
 
