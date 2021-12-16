@@ -124,7 +124,7 @@ git clone https://github.com/zivong/jekyll-theme-hydure.git
 
 ```
 
-- 사용하지 않는 twitter_username은 삭제하였습니다. 또한, 트위터 링크가 로드되는 아이콘 또한 생성하지 않았습니다.
+- 사용하지 않는 twitter_username은 삭제하였습니다. 트위터 링크가 로드되는 아이콘 또한 생성하지 않았습니다.
 
 
 ## 3. Post Upload
