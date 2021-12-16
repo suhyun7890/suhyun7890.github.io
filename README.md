@@ -104,7 +104,7 @@ git clone https://github.com/zivong/jekyll-theme-hydure.git
 
 ### ② 테마 파일을 로컬/원격 저장소에 반영
 
-- 저장한 테마 파일들을 로컬 저장소에 덮어쓰기하여 반영하였습니다.
+- 저장한 테마 파일들을 blog 에 덮어쓰기하여 반영하였습니다.
 - Hydure 테마의 경우, _posts 폴더가 포함되지 않았기 때문에 모두 덮어쓰기하였습니다.
 - git add를 통하여 변경된 파일들을 git에 반영하였고, commit과 push를 거쳐 원격 저장소에 또한 반영하였습니다.
 
